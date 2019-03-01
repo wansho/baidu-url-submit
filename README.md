@@ -38,5 +38,6 @@ result = baidu_url_submit.submit(site, token, urls)
 ```
 
 ## LICENSE
+
 [MIT](LICENSE.txt)
 
