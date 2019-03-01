@@ -17,7 +17,7 @@ setuptools.setup(
     description = "submit url to baidu.",
     long_description = long_description,
     long_description_content_type = "text/markdown",
-    url = "https://github.com/pypa/sampleproject",
+    url = "https://github.com/wansho/baidu-url-submit",
     packages = setuptools.find_packages(),
     classifiers = [
         "Programming Language :: Python :: 3",
